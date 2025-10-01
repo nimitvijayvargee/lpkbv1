@@ -10,10 +10,18 @@ This is my journal of the design and building process of **lpkbv1**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/23).
 
 
-## 10/1/2025 - Researched power system and battery requirements!  
+## 10/1/2025 9:16 AM - Researched power system and battery requirements!  
 
 Calculated some of the power stuff, which BMS board I can use and a couple of the things to calculate the overall charging system :). Connecting the Pico will be through a USB Micro B port. The VBUS will connect to the BMS for charging, and BMS to VSYS. This is the Breakout I plan on using, but probably won't expose the USB Port on it!
 ![Screenshot From 2025-10-01 14-45-17.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODYsInB1ciI6ImJsb2JfaWQifX0=--a8f08b96462f26f55fee5e92ff4392ab50ef0d66/Screenshot%20From%202025-10-01%2014-45-17.png)
+
+  
+
+## 10/1/2025 9:56 AM - Make KLE Layouts!  
+
+I made some KLE Layouts for Matrix and Label! Matrix is going to be required for Vial later on so I decided to do that right now. I also made the PCB Files and added them to the repo! Gonna start work on the schematic now :D. Also, why are low profile keycaps so expensive, and I don't even have aliexpress 😭😭
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--32dd097d3c982405d639be425bc2720f3cd07782/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODksInB1ciI6ImJsb2JfaWQifX0=--420e62bc1db55d0f81cc48383fab8f8197b9ffc5/image.png)
 
   
 
