@@ -25,3 +25,10 @@ I made some KLE Layouts for Matrix and Label! Matrix is going to be required for
 
   
 
+## 10/1/2025 11 AM - Completed the Schematic!  
+
+Made a matrix and copy-pasted it to get the keyboard area. Then I used the research I did for the battery to make that area. The Pico and the encoder are standard, and the switches are MX. The 18650 also goes through a Voltage Divider to act as a Battery percentage somewhat. Finally, I set all the footprints for each symbol (thank you joe scotto) <br />
+![Screenshot From 2025-10-01 16-34-01.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTAsInB1ciI6ImJsb2JfaWQifX0=--b81998dad0758c9b8a0b4ae3ea07584e97c1e716/Screenshot%20From%202025-10-01%2016-34-01.png)
+
+  
+
