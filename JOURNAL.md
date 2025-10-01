@@ -12,7 +12,7 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 ## 10/1/2025 9:16 AM - Researched power system and battery requirements!  
 
-Calculated some of the power stuff, which BMS board I can use and a couple of the things to calculate the overall charging system :). Connecting the Pico will be through a USB Micro B port. The VBUS will connect to the BMS for charging, and BMS to VSYS. This is the Breakout I plan on using, but probably won't expose the USB Port on it!
+Calculated some of the power stuff, which BMS board I can use and a couple of the things to calculate the overall charging system :). Connecting the Pico will be through a USB Micro B port. The VBUS will connect to the BMS for charging, and BMS to VSYS. This is the Breakout I plan on using, but probably won't expose the USB Port on it! <br />
 ![Screenshot From 2025-10-01 14-45-17.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODYsInB1ciI6ImJsb2JfaWQifX0=--a8f08b96462f26f55fee5e92ff4392ab50ef0d66/Screenshot%20From%202025-10-01%2014-45-17.png)
 
   
