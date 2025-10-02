@@ -12,7 +12,7 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 ## 10/1/2025 9:16 AM - Researched power system and battery requirements!  
 
-Calculated some of the power stuff, which BMS board I can use and a couple of the things to calculate the overall charging system :). Connecting the Pico will be through a USB Micro B port. The VBUS will connect to the BMS for charging, and BMS to VSYS. This is the Breakout I plan on using, but probably won't expose the USB Port on it! <br />
+Calculated some of the power stuff, which BMS board I can use and a couple of the things to calculate the overall charging system :). Connecting the Pico will be through a USB Micro B port. The VBUS will connect to the BMS for charging, and BMS to VSYS. This is the Breakout I plan on using, but probably won't expose the USB Port on it!
 ![Screenshot From 2025-10-01 14-45-17.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODYsInB1ciI6ImJsb2JfaWQifX0=--a8f08b96462f26f55fee5e92ff4392ab50ef0d66/Screenshot%20From%202025-10-01%2014-45-17.png)
 
   
@@ -30,5 +30,12 @@ I made some KLE Layouts for Matrix and Label! Matrix is going to be required for
 Made a matrix and copy-pasted it to get the keyboard area. Then I used the research I did for the battery to make that area. The Pico and the encoder are standard, and the switches are MX. The 18650 also goes through a Voltage Divider to act as a Battery percentage somewhat. Finally, I set all the footprints for each symbol (thank you joe scotto) <br />
 ![Screenshot From 2025-10-01 16-34-01.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTAsInB1ciI6ImJsb2JfaWQifX0=--b81998dad0758c9b8a0b4ae3ea07584e97c1e716/Screenshot%20From%202025-10-01%2016-34-01.png)
 
+  
+
+## 10/2/2025 - Laid out the PCB  
+
+pretty fun, just set the grid sizes to the MX standard and went at it. Still debating where to put the 18650 holder, but i'll probably put it near the bottom or the top side of the keyboard
+The stabs are hard to find for low profile keyborads, so i came up with a cursed alternative. Just put the stabs and two extra switches smh <br />
+![Screenshot From 2025-10-02 14-53-22.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTEsInB1ciI6ImJsb2JfaWQifX0=--45176f1b600b580654aa28ad851997acb864eb4a/Screenshot%20From%202025-10-02%2014-53-22.png)
   
 
