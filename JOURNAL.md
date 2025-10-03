@@ -39,3 +39,9 @@ The stabs are hard to find for low profile keyborads, so i came up with a cursed
 ![Screenshot From 2025-10-02 14-53-22.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTEsInB1ciI6ImJsb2JfaWQifX0=--45176f1b600b580654aa28ad851997acb864eb4a/Screenshot%20From%202025-10-02%2014-53-22.png)
   
 
+## 10/3/2025 - Added the diodes and routed some of the PCB  
+
+Added the diodes and routed most of the rows and columns! Decided where to put the Pico (only used for charging) and now it looks very clean. The battery will be near the top so i'll have to expand the case (chamfer?) around that area; or just get a lipo instead. Overall, i am very close to completing the PCB <br />
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5LCJwdXIiOiJibG9iX2lkIn19--900765fdb230b47c38e3cb087e52a7b6dbede5d9/image.png)
+  
+
