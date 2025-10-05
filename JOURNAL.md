@@ -45,3 +45,8 @@ Added the diodes and routed most of the rows and columns! Decided where to put t
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5LCJwdXIiOiJibG9iX2lkIn19--900765fdb230b47c38e3cb087e52a7b6dbede5d9/image.png)
   
 
+## 10/5/2025 - power stuff  
+
+tried to replace the shitty chinese charging thing with an actually good IC (the MCP73871). i have no idea how this works. my chatgpt free ended for today. i found a reddit thread from 2018 with no good answers. i need help. oh also the pcb looks pretty clean, i might replace the 18650 with a thin pillow, so i can expand the size later too!
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjE2LCJwdXIiOiJibG9iX2lkIn19--3f72a9d44f5e7e5c9f5e3be596bf049c51d94fb0/image.png)  
+
