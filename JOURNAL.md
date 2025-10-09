@@ -50,3 +50,10 @@ Added the diodes and routed most of the rows and columns! Decided where to put t
 tried to replace the shitty chinese charging thing with an actually good IC (the MCP73871). i have no idea how this works. my chatgpt free ended for today. i found a reddit thread from 2018 with no good answers. i need help. oh also the pcb looks pretty clean, i might replace the 18650 with a thin pillow, so i can expand the size later too!
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjE2LCJwdXIiOiJibG9iX2lkIn19--3f72a9d44f5e7e5c9f5e3be596bf049c51d94fb0/image.png)  
 
+## 10/9/2025 - Routed the rest of the PCB  
+
+Got the new power stuff working and routed the rest of the PCB. Also managed to figure out the PSU, although I might need to fix the resistors around. I also added an OLED screen. There is a cool thing where i exported the PCB as dxf and imported it onto the silkscreen, just because; and it honestly looks pretty cool ngl. The edge cuts is temporary, just so the board renders properly. Might round it off later or clean up the areas.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNywicHVyIjoiYmxvYl9pZCJ9fQ==--561dbd153a002b56e3f1dda7c08413d1ff70095f/image.png)
+
+  
+
