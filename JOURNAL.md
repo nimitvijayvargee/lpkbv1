@@ -57,9 +57,15 @@ Got the new power stuff working and routed the rest of the PCB. Also managed to 
 
   
 
-## 10/10/2025 - Finished the PCB  
+## 10/10/2025 4 PM - Finished the PCB  
 
 I finally finished the PCB! Now everything looks (and hopefully works) awesome! Still debating between a black on white or white on black design, but it will definitely have acrylic on the case :yesyes:. Anyways check out the picture of the design! Rounded corners will be translated into the cad (2.5mm, 1cm is too much, i learn).
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--760decf50dfaf99adafd449ff98845cf55100945/image.png)
+  
+
+## 10/10/2025 6 PM - CAD!!!  
+
+Learning freecad definitely has a curve to it, but it runs awesome unlike fusion. I am too used to fusion so it took me more than an hour to fix up the outline sketch of the case. After that, I need to add the mounting holes (also to the PCB, i forgot those) and  the slot for the acrylic cover!
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--4cd042701ffc94a4e6f171b76ea7f80373cea0a6/image.png)
   
 
