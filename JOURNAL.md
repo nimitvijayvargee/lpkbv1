@@ -10,14 +10,14 @@ This is my journal of the design and building process of **lpkbv1**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/23).
 
 
-## 10/1/2025 9:16 AM - Researched power system and battery requirements!  
+## 10/1/2025 2 PM - Researched power system and battery requirements!  
 
 Calculated some of the power stuff, which BMS board I can use and a couple of the things to calculate the overall charging system :). Connecting the Pico will be through a USB Micro B port. The VBUS will connect to the BMS for charging, and BMS to VSYS. This is the Breakout I plan on using, but probably won't expose the USB Port on it!
 ![Screenshot From 2025-10-01 14-45-17.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODYsInB1ciI6ImJsb2JfaWQifX0=--a8f08b96462f26f55fee5e92ff4392ab50ef0d66/Screenshot%20From%202025-10-01%2014-45-17.png)
 
   
 
-## 10/1/2025 9:56 AM - Make KLE Layouts!  
+## 10/1/2025 3 PM - Make KLE Layouts!  
 
 I made some KLE Layouts for Matrix and Label! Matrix is going to be required for Vial later on so I decided to do that right now. I also made the PCB Files and added them to the repo! Gonna start work on the schematic now :D. Also, why are low profile keycaps so expensive, and I don't even have aliexpress 😭😭
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6ODgsInB1ciI6ImJsb2JfaWQifX0=--32dd097d3c982405d639be425bc2720f3cd07782/image.png)
@@ -25,7 +25,7 @@ I made some KLE Layouts for Matrix and Label! Matrix is going to be required for
 
   
 
-## 10/1/2025 11 AM - Completed the Schematic!  
+## 10/1/2025 4 PM - Completed the Schematic!  
 
 Made a matrix and copy-pasted it to get the keyboard area. Then I used the research I did for the battery to make that area. The Pico and the encoder are standard, and the switches are MX. The 18650 also goes through a Voltage Divider to act as a Battery percentage somewhat. Finally, I set all the footprints for each symbol (thank you joe scotto) <br />
 ![Screenshot From 2025-10-01 16-34-01.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTAsInB1ciI6ImJsb2JfaWQifX0=--b81998dad0758c9b8a0b4ae3ea07584e97c1e716/Screenshot%20From%202025-10-01%2016-34-01.png)
@@ -45,7 +45,7 @@ Added the diodes and routed most of the rows and columns! Decided where to put t
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTQ5LCJwdXIiOiJibG9iX2lkIn19--900765fdb230b47c38e3cb087e52a7b6dbede5d9/image.png)
   
 
-## 10/5/2025 - power stuff  
+## 10/6/2025 - power stuff  
 
 tried to replace the shitty chinese charging thing with an actually good IC (the MCP73871). i have no idea how this works. my chatgpt free ended for today. i found a reddit thread from 2018 with no good answers. i need help. oh also the pcb looks pretty clean, i might replace the 18650 with a thin pillow, so i can expand the size later too!
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjE2LCJwdXIiOiJibG9iX2lkIn19--3f72a9d44f5e7e5c9f5e3be596bf049c51d94fb0/image.png)  
@@ -55,5 +55,11 @@ tried to replace the shitty chinese charging thing with an actually good IC (the
 Got the new power stuff working and routed the rest of the PCB. Also managed to figure out the PSU, although I might need to fix the resistors around. I also added an OLED screen. There is a cool thing where i exported the PCB as dxf and imported it onto the silkscreen, just because; and it honestly looks pretty cool ngl. The edge cuts is temporary, just so the board renders properly. Might round it off later or clean up the areas.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIyNywicHVyIjoiYmxvYl9pZCJ9fQ==--561dbd153a002b56e3f1dda7c08413d1ff70095f/image.png)
 
+  
+
+## 10/10/2025 - Finished the PCB  
+
+I finally finished the PCB! Now everything looks (and hopefully works) awesome! Still debating between a black on white or white on black design, but it will definitely have acrylic on the case :yesyes:. Anyways check out the picture of the design! Rounded corners will be translated into the cad (2.5mm, 1cm is too much, i learn).
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--760decf50dfaf99adafd449ff98845cf55100945/image.png)
   
 
