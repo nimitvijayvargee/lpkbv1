@@ -69,3 +69,14 @@ Learning freecad definitely has a curve to it, but it runs awesome unlike fusion
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--4cd042701ffc94a4e6f171b76ea7f80373cea0a6/image.png)
   
 
+## 10/11/2025 - Rerouted the PCB again  
+
+Turns out gateron KS-33 LP have different footprints, so there goes my saturday. I also reinstalled kicad so i could get the 3d models rendering properly, and my god is it pretty. Tried the 18650, didn't like and am sticking with a 4000mAh lipo battery
+here is the nice PCB now
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0d94081d025919176c153061786fdc3781b4dad/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5349d0db9540f9a270268b949b939eecfed20fdb/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--9cd32529222d53fa03d1257344020602468dae83/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--c57b1207cd5f0504ea1772e1eefc0665bdd98429/image.png)
+
+  
+
