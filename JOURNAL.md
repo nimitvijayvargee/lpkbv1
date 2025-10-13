@@ -80,3 +80,9 @@ here is the nice PCB now
 
   
 
+## 10/13/2025 - CAD (2)  
+
+Freecad wasn't right for me, so I went to onshape to learn. I started with the basic keyboard, added the screws and set up the walls. Thin (2.5mm) walls and a not that large area of coverage. I will also need to figure out the way to slide in the battery but that's a future me problem. I'll probably sandwich the battery and then screw in a top case, screw the PCB into that.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--8e8109f4564c780506f4088df6daefddec29664e/image.png)
+  
+
