@@ -86,3 +86,9 @@ Freecad wasn't right for me, so I went to onshape to learn. I started with the b
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--8e8109f4564c780506f4088df6daefddec29664e/image.png)
   
 
+## 10/20/2025 - Finshed the CAD  
+
+Keyboard CAD! I should be able to fit the battery in there, everything else looks perfect. idk why the inserts are different colours but eh. also it was kinda fun to make all this now that i look back. time to make the bom and submit this :yay:. here is some padding text to reach the word count :thumbup:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzY4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--895ef9435fe5f1a9c4e1f124e71b33e377cf764e/image.png)
+  
+
