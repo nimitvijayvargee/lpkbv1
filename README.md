@@ -16,4 +16,5 @@ This is my attpemt of making a wireless low profile keyboard. It uses the RP2040
 |Key switches   |1800 |meckeys.com     |
 |Diodes         |150  |robu.in         |
 |Total          |14950|                |
+~ USD 171
 
