@@ -12,9 +12,9 @@ This is my attpemt of making a wireless low profile keyboard. It uses the RP2040
 |Item           |Price|Link            |
 |---------------|-----|----------------|
 |PCB + Assembly |11000|pcbpower.com    |
-|Keycaps        |2000 |curiositycaps.in|
-|Key switches   |1800 |meckeys.com     |
-|Diodes         |150  |robu.in         |
+|Keycaps        |2000 |[curiositycaps.in](https://curiositycaps.in/products/electrical-wire-slope-low-profile-side-printed-keycap)|
+|Key switches   |1800 |[meckeys.com](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-low-profile-2-0-mechanical-switch-3pin/)     |
+|Diodes         |150  |[robu.in](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/)         |
 |Total          |14950|                |
 ~ USD 171
 
