@@ -7740,7 +7740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 205.74 80.01 0)
 			(effects
 				(font
@@ -7988,7 +7988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 40.64 30.48 0)
 			(effects
 				(font
@@ -8056,7 +8056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 167.64 114.3 0)
 			(effects
 				(font
@@ -8124,7 +8124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 116.84 46.99 0)
 			(effects
 				(font
@@ -8282,7 +8282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 129.54 63.5 0)
 			(effects
 				(font
@@ -8694,7 +8694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 53.34 63.5 0)
 			(effects
 				(font
@@ -8942,7 +8942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 154.94 114.3 0)
 			(effects
 				(font
@@ -9169,7 +9169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 167.64 46.99 0)
 			(effects
 				(font
@@ -9574,7 +9574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 218.44 46.99 0)
 			(effects
 				(font
@@ -9822,7 +9822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 180.34 30.48 0)
 			(effects
 				(font
@@ -9890,7 +9890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 142.24 63.5 0)
 			(effects
 				(font
@@ -10138,7 +10138,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 66.04 30.48 0)
 			(effects
 				(font
@@ -10271,7 +10271,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 180.34 114.3 0)
 			(effects
 				(font
@@ -10495,7 +10495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 40.64 114.3 0)
 			(effects
 				(font
@@ -10563,7 +10563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 154.94 97.79 0)
 			(effects
 				(font
@@ -10631,7 +10631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 104.14 114.3 0)
 			(effects
 				(font
@@ -10969,7 +10969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 116.84 30.48 0)
 			(effects
 				(font
@@ -11104,7 +11104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 142.24 46.99 0)
 			(effects
 				(font
@@ -11532,7 +11532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 154.94 63.5 0)
 			(effects
 				(font
@@ -11602,7 +11602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 205.74 80.01 0)
 			(effects
 				(font
@@ -11670,7 +11670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 91.44 97.79 0)
 			(effects
 				(font
@@ -11918,7 +11918,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 218.44 97.79 0)
 			(effects
 				(font
@@ -12412,7 +12412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 129.54 30.48 0)
 			(effects
 				(font
@@ -12646,7 +12646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 40.64 80.01 0)
 			(effects
 				(font
@@ -12804,7 +12804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 40.64 63.5 0)
 			(effects
 				(font
@@ -13054,7 +13054,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 205.74 46.99 0)
 			(effects
 				(font
@@ -13344,7 +13344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 78.74 97.79 0)
 			(effects
 				(font
@@ -13568,7 +13568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 205.74 63.5 0)
 			(effects
 				(font
@@ -13716,7 +13716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 91.44 30.48 0)
 			(effects
 				(font
@@ -13874,7 +13874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 66.04 114.3 0)
 			(effects
 				(font
@@ -14255,7 +14255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 53.34 46.99 0)
 			(effects
 				(font
@@ -14323,7 +14323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 78.74 46.99 0)
 			(effects
 				(font
@@ -14481,7 +14481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 91.44 63.5 0)
 			(effects
 				(font
@@ -14549,7 +14549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 129.54 46.99 0)
 			(effects
 				(font
@@ -14617,7 +14617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 154.94 80.01 0)
 			(effects
 				(font
@@ -14685,7 +14685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 66.04 46.99 0)
 			(effects
 				(font
@@ -14819,7 +14819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 66.04 97.79 0)
 			(effects
 				(font
@@ -14887,7 +14887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 116.84 80.01 0)
 			(effects
 				(font
@@ -15358,7 +15358,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 129.54 97.79 0)
 			(effects
 				(font
@@ -15518,7 +15518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 104.14 114.3 0)
 			(effects
 				(font
@@ -15856,7 +15856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 104.14 63.5 0)
 			(effects
 				(font
@@ -15926,7 +15926,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 40.64 97.79 0)
 			(effects
 				(font
@@ -16161,7 +16161,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 66.04 80.01 0)
 			(effects
 				(font
@@ -16229,7 +16229,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 218.44 63.5 0)
 			(effects
 				(font
@@ -16364,7 +16364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 116.84 97.79 0)
 			(effects
 				(font
@@ -16432,7 +16432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 78.74 63.5 0)
 			(effects
 				(font
@@ -16590,7 +16590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 104.14 30.48 0)
 			(effects
 				(font
@@ -16748,7 +16748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 180.34 63.5 0)
 			(effects
 				(font
@@ -16977,7 +16977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 104.14 114.3 0)
 			(effects
 				(font
@@ -17045,7 +17045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 193.04 97.79 0)
 			(effects
 				(font
@@ -17269,7 +17269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 53.34 97.79 0)
 			(effects
 				(font
@@ -17427,7 +17427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 104.14 46.99 0)
 			(effects
 				(font
@@ -17922,7 +17922,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 193.04 46.99 0)
 			(effects
 				(font
@@ -17990,7 +17990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 40.64 46.99 0)
 			(effects
 				(font
@@ -18238,7 +18238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 193.04 114.3 0)
 			(effects
 				(font
@@ -18306,7 +18306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 193.04 63.5 0)
 			(effects
 				(font
@@ -18631,7 +18631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 180.34 80.01 0)
 			(effects
 				(font
@@ -18856,7 +18856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 205.74 46.99 0)
 			(effects
 				(font
@@ -18924,7 +18924,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 142.24 30.48 0)
 			(effects
 				(font
@@ -19242,7 +19242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 116.84 63.5 0)
 			(effects
 				(font
@@ -19310,7 +19310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 91.44 46.99 0)
 			(effects
 				(font
@@ -19378,7 +19378,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 53.34 80.01 0)
 			(effects
 				(font
@@ -19798,7 +19798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 142.24 97.79 0)
 			(effects
 				(font
@@ -20046,7 +20046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 129.54 80.01 0)
 			(effects
 				(font
@@ -20114,7 +20114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 154.94 30.48 0)
 			(effects
 				(font
@@ -20184,7 +20184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 40.64 97.79 0)
 			(effects
 				(font
@@ -20342,7 +20342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 154.94 46.99 0)
 			(effects
 				(font
@@ -20410,7 +20410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 180.34 46.99 0)
 			(effects
 				(font
@@ -20478,7 +20478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 180.34 97.79 0)
 			(effects
 				(font
@@ -20546,7 +20546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 193.04 30.48 0)
 			(effects
 				(font
@@ -20614,7 +20614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 205.74 30.48 0)
 			(effects
 				(font
@@ -20682,7 +20682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 167.64 80.01 0)
 			(effects
 				(font
@@ -20840,7 +20840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 167.64 63.5 0)
 			(effects
 				(font
@@ -20998,7 +20998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 167.64 30.48 0)
 			(effects
 				(font
@@ -21223,7 +21223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 104.14 97.79 0)
 			(effects
 				(font
@@ -21291,7 +21291,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 218.44 114.3 0)
 			(effects
 				(font
@@ -21359,7 +21359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 205.74 114.3 0)
 			(effects
 				(font
@@ -21864,7 +21864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 78.74 30.48 0)
 			(effects
 				(font
@@ -22022,7 +22022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 40.64 97.79 0)
 			(effects
 				(font
@@ -22156,7 +22156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 66.04 63.5 0)
 			(effects
 				(font
@@ -22224,7 +22224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 218.44 80.01 0)
 			(effects
 				(font
@@ -22292,7 +22292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 205.74 46.99 0)
 			(effects
 				(font
@@ -22360,7 +22360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 142.24 80.01 0)
 			(effects
 				(font
@@ -22698,7 +22698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 91.44 80.01 0)
 			(effects
 				(font
@@ -22856,7 +22856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 205.74 97.79 0)
 			(effects
 				(font
@@ -23104,7 +23104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 104.14 80.01 0)
 			(effects
 				(font
@@ -23172,7 +23172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 53.34 114.3 0)
 			(effects
 				(font
@@ -23240,7 +23240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 205.74 80.01 0)
 			(effects
 				(font
@@ -23398,7 +23398,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "lib:SW_Gateron_LowProfile_THT"
+		(property "Footprint" "lib:SW_MX_LowProfile_THT"
 			(at 78.74 80.01 0)
 			(effects
 				(font
