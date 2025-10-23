@@ -15,6 +15,7 @@ This is my attpemt of making a wireless low profile keyboard. It uses the RP2040
 |Keycaps        |2000 |[curiositycaps.in](https://curiositycaps.in/products/electrical-wire-slope-low-profile-side-printed-keycap)|
 |Key switches   |1800 |[meckeys.com](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-low-profile-2-0-mechanical-switch-3pin/)     |
 |Diodes         |150  |[robu.in](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/)         |
+|Lipo Battery   |400  |[quartzcomponents.com](https://quartzcomponents.com/products/3-7v-4000mah-li-po-rechargeable-battery) |
 |Total          |14950|                |
 ~ USD 171
 
