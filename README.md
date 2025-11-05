@@ -8,6 +8,8 @@ This is my attpemt of making a wireless low profile keyboard. It uses the RP2040
 <img width="1453" height="811" alt="image" src="https://github.com/user-attachments/assets/fd21eedb-6cba-46cb-8df1-18884604dea9" />
 <img width="1453" height="811" alt="image" src="https://github.com/user-attachments/assets/6cf3cebb-0a8b-4898-a2c3-49de4a173c34" />
 
+<img width="1080" height="481" alt="image" src="https://github.com/user-attachments/assets/321c0003-dab2-413a-87bf-5b85dcbd2af5" />
+
 ## BOM
 |Item           |Price|Link            |
 |---------------|-----|----------------|
