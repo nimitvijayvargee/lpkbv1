@@ -11,12 +11,12 @@ This is my attpemt of making a wireless low profile keyboard. It uses the RP2040
 ## BOM
 |Item           |Price|Link            |
 |---------------|-----|----------------|
-|PCB + Assembly |11000|pcbpower.com    |
-|Keycaps        |2000 |[curiositycaps.in](https://curiositycaps.in/products/electrical-wire-slope-low-profile-side-printed-keycap)|
-|Key switches   |1800 |[meckeys.com](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-low-profile-2-0-mechanical-switch-3pin/)     |
-|Diodes         |150  |[robu.in](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/)         |
-|Lipo Battery   |400  |[quartzcomponents.com](https://quartzcomponents.com/products/3-7v-4000mah-li-po-rechargeable-battery) |
-|Total          |15350|                |
-~ USD 175
+|PCB            |100  |pcbpower.com    |
+|Keycaps        |25   |[curiositycaps.in](https://curiositycaps.in/products/electrical-wire-slope-low-profile-side-printed-keycap)|
+|Key switches   |20   |[meckeys.com](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-low-profile-2-0-mechanical-switch-3pin/)     |
+|Diodes         |2    |[robu.in](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/)         |
+|Schotkey Diode |0    |[robu.in](https://robu.in/product/1n5819-1w-diode-pack-of-30/) |
+|Lipo Battery   |5    |[quartzcomponents.com](https://quartzcomponents.com/products/3-7v-4000mah-li-po-rechargeable-battery) |
+|Total          |153  |                |
 
 
