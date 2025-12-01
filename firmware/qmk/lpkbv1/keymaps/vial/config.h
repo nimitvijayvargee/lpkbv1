@@ -1,0 +1,14 @@
+
+#pragma once
+
+#define VIAL_KEYBOARD_UID {0xAB, 0xBC, 0xCD, 0xDE, 0xEF, 0xCF, 0x07, 0x13}
+
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 2 }
+
+#define OLED_DISPLAY_128X64
+#define OLED_IC SSD1306
+
+#define I2C1_SDA_PIN GP26
+#define I2C1_SCL_PIN GP27
+#define I2C_DRIVER I2CD1

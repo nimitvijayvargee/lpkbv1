@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.5-9.0.5~ubuntu25.04.1"
+      "Version": "9.0.6"
     },
-    "CreationDate": "2025-10-20T19:03:55+05:30"
+    "CreationDate": "2025-11-17T16:57:13+05:30"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,8 +14,8 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 310.05,
-      "Y": 152.55
+      "X": 312.55,
+      "Y": 145.05
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
@@ -41,16 +41,6 @@
     {
       "Path": "lpkbv1-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "lpkbv1-F_Paste.gbr",
-      "FileFunction": "SolderPaste,Top",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "lpkbv1-B_Paste.gbr",
-      "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {

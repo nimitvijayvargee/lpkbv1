@@ -116,6 +116,10 @@
           ""
         ],
         [
+          "hole_clearance|52280000|86800000|24f8eee2-d3f0-4fe4-b14e-655a063895f9|467084d4-7b3d-4ce6-aacf-07760fa14da8",
+          ""
+        ],
+        [
           "hole_clearance|76124250|159715000|1ac17907-712f-4b07-8e02-b1bce6f8aee8|a4c1578f-4e9f-4dc1-b2bf-f2922cf0d9bb",
           ""
         ],
@@ -124,7 +128,11 @@
           ""
         ],
         [
-          "starved_thermal|111560500|67013000|ea7544d9-f5d7-46c1-bffd-c88a7c053f9c|cdb0bea8-7dd7-4ad6-a85f-53db3b80b461|F.Cu",
+          "malformed_courtyard|44030000|82250000|f0f1d457-c665-4e48-9b9c-6a022ec6a625|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "malformed_courtyard|60530000|82250000|f0f1d457-c665-4e48-9b9c-6a022ec6a625|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -595,7 +603,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerbers/",
+      "plot": "C:/Users/nimit/Desktop/Projects/lpkbv1/PCB/lpkbv1/",
       "pos_files": "/home/nimit/Projects/lpkbv1/production/",
       "specctra_dsn": "",
       "step": "lpkbv1.step",
