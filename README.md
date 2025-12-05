@@ -1,4 +1,6 @@
 # lpkbv1
+![Uploading Screenshot 2025-12-01 210001.png…]()
+
 This is my attpemt of making a wireless low profile keyboard. It uses the RP2040 in the form of a Pi Pico, and follows the ANSI75 layout. It is plateless mount, and can use a regular lipo or li-ion cell for wireless. It is designed with the Pico W in mind. The switches are following the Gateron KS-33 Low Profile switches, and any Low Profile MX keycaps (Cross Stem) can be used. The firmware is currently only QMK, but it does not support the wireless features of the keyboard. As of writing this, a KMK port which supports wireless is in the works.
  <br /> 
  <br/ >
