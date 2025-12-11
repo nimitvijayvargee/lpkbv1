@@ -21,6 +21,7 @@ This is my attpemt of making a wireless low profile keyboard. It uses the RP2040
 |Diodes         |2    |[robu.in](https://robu.in/product/1n4148-1w-zener-diode-pack-of-50/)         |
 |Schotkey Diode |0    |[robu.in](https://robu.in/product/1n5819-1w-diode-pack-of-30/) |
 |Lipo Battery   |5    |[quartzcomponents.com](https://quartzcomponents.com/products/3-7v-4000mah-li-po-rechargeable-battery) |
+|Pico compatible ESP32-S3 Board |10  |[electronicscomp.com](https://www.electronicscomp.com/waveshare-esp32-s3-microcontroller-2.4-ghz-wi-fi-development-board-dual-core-processor-with-frequency-up-to-240-mhz)  | 
 |Total          |153  |                |
 
 
